@@ -8,10 +8,12 @@ for creating, testing, and running trading strategies.
 
 ## Open source
 
+- [Overfit](https://github.com/ashishkaloge/overfit) finds look-ahead leakage, overfitting, unrealistic costs, and risk-limit breaches in trading research.
+- [Agent Cost Guard](https://github.com/ashishkaloge/agent-cost-guard) adds a local approval gate before AI coding commands can create cloud spend.
+- [Agent Policy Map](https://github.com/ashishkaloge/agent-policy-map) shows which instructions Claude Code, Codex, Cursor, and GitHub Copilot can see for a file.
+- [Awesome Agentic Engineering](https://github.com/ashishkaloge/awesome-agentic-engineering) curates useful tools and workflows for AI coding agents.
 - [Coding Agent Guidelines](https://github.com/ashishkaloge/coding-agent-guidelines) gives Claude Code, Codex, Cursor, and other coding agents simple rules for small, verified changes.
 - [Production Launch Prompts](https://github.com/ashishkaloge/production-launch-prompts) provides 21 practical audits for checking an app before real users arrive.
-- [Awesome Agentic Engineering](https://github.com/ashishkaloge/awesome-agentic-engineering) curates useful tools and workflows for AI coding agents.
-- [Algo Trading Website](https://github.com/ashishkaloge/algo-trading-website) is a framework-free landing-page starter built with HTML, reusable CSS, and vanilla JavaScript.
 
 ## What I care about
 

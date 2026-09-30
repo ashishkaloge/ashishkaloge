@@ -3,8 +3,7 @@
 I build practical AI products, trading systems, and tools that help developers
 ship safer software.
 
-I am currently building [Tradign](https://tradign.com), an AI-assisted platform
-for creating, testing, and running trading strategies.
+I am currently building [Velator](https://velator.ai).
 
 ## Open source
 
@@ -21,4 +20,4 @@ for creating, testing, and running trading strategies.
 - Simple systems that are easy to understand
 - Trading infrastructure with clear safety controls
 
-Website: [tradign.com](https://tradign.com)
+Website: [velator.ai](https://velator.ai)

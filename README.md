@@ -24,3 +24,5 @@ I am currently building [Velator](https://velator.ai).
 - Trading infrastructure with clear safety controls
 
 Website: [velator.ai](https://velator.ai)
+
+[Contact me](mailto:ashishkaloge.dev@gmail.com)
